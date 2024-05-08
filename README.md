@@ -1,1 +1,1 @@
-Repositório sobre o curso CSS: Flexbox e layouts responsivos realizado na Alura - Formação Front End T¨- ONE
+Repositório sobre o curso CSS: Flexbox e layouts responsivos realizado na Alura - Formação Front End T6- ONE
